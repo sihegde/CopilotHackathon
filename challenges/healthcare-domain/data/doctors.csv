@@ -1,0 +1,5 @@
+doctor_id,first_name,last_name,email,specialty,clinic_id
+DOC-001,Aarav,Sharma,aarav.sharma@example.com,Cardiology,CLN-001
+DOC-002,Ananya,Iyer,ananya.iyer@example.com,Dermatology,CLN-001
+DOC-003,Vikram,Menon,vikram.menon@example.com,General Medicine,CLN-002
+``

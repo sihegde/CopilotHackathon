@@ -1,0 +1,4 @@
+patient_id,first_name,last_name,email,phone,date_of_birth
+PAT-001,Rhea,Kapoor,rhea.kapoor@example.com,+91-9000000001,1992-03-10
+PAT-002,Dev,Rao,dev.rao@example.com,+91-9000000002,1988-11-22
+PAT-003,Neha,Patil,neha.patil@example.com,+91-9000000003,1995-07-05

@@ -1,0 +1,3 @@
+consultation_id,appointment_id,status,room_code,started_at,ended_at
+CON-2001,APT-1001,SCHEDULED,VID-9Q2L,, 
+CON-2002,APT-1004,ENDED,VID-77KP,2026-01-18T10:00:10+05:30,2026-01-18T10:29:40+05:30
