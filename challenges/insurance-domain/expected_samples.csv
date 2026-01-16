@@ -1,0 +1,5 @@
+customer_id,eligible_policies,top_recommendation,notes
+CUS-001,POL-002|POL-201,POL-002,Health Plus matches budget and sum insured; Motor also within budget but different category
+CUS-002,POL-101,POL-101,LIFE Term Secure fits budget; smoker not allowed for some life policies
+CUS-003,POL-003,POL-003,Senior plan meets age and budget
+CUS-004,POL-201|POL-101,POL-201,Motor preferred; also eligible for Term but category preference is Motor
