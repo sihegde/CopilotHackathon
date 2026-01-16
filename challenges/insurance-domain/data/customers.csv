@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,age,gender,smoker,city,income_annual,has_preexisting,dependents,risk_score
+CUS-001,Kiran,Shetty,28,F,False,Bengaluru,900000,False,0,25
+CUS-002,Rahul,Verma,34,M,True,Pune,1200000,True,2,48
+CUS-003,Meera,Naik,62,F,False,Bengaluru,700000,True,1,52
+CUS-004,Arjun,Kapoor,24,M,False,Delhi,600000,False,0,18

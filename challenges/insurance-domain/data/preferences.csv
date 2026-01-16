@@ -1,0 +1,5 @@
+customer_id,preferred_category,budget_monthly,min_sum_insured,needs_family_floater
+CUS-001,HEALTH,2000,500000,False
+CUS-002,LIFE,1200,5000000,True
+CUS-003,HEALTH,4000,400000,False
+CUS-004,MOTOR,2000,600000,False

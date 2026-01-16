@@ -1,0 +1,7 @@
+policy_id,name,category,premium_monthly,sum_insured,min_age,max_age,preexisting_wait_months,risk_score_min,risk_score_max,smoker_allowed
+POL-001,Health Basic,HEALTH,1200,300000,18,60,24,0,60,True
+POL-002,Health Plus,HEALTH,2200,700000,21,65,12,0,55,True
+POL-003,Health Senior,HEALTH,3500,500000,60,80,24,0,70,True
+POL-101,Term Secure,LIFE,900,5000000,21,65,0,0,50,False
+POL-102,Term Elite,LIFE,1500,10000000,25,60,0,0,45,False
+POL-201,Motor Comprehensive,MOTOR,1800,800000,18,75,0,0,65,True

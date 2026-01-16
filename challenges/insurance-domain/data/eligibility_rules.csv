@@ -1,0 +1,8 @@
+rule_id,description
+R-AGE,Customer age must be within policy min_age and max_age
+R-RISK,Customer risk_score must be within policy risk_score_min and risk_score_max
+R-SMOKE,"If policy smoker_allowed is False, customer.smoker must be False"
+R-PREEX,"If customer has preexisting condition, ensure policy preexisting_wait_months is acceptable"
+R-BUDGET,policy premium_monthly must be <= customer preference budget_monthly
+R-CATEGORY,"policy category should match customer preferred_category unless no matches found, then suggest nearest"
+R-SUMINS,policy sum_insured must be >= customer preference min_sum_insured when applicable
