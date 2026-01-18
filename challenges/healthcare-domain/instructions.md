@@ -44,7 +44,7 @@ The dataset may include information related to:
 
 3. **Design the Application Around the Existing Data**
    - Create APIs and UI workflows that align with the dataset.
-   - Avoid changing data semantics unless required for optional extensions.
+   - Refer to Functional Requirements section to understand more and detailed steps.
 
 ---
 
