@@ -44,8 +44,7 @@ The dataset may include information related to:
 
 3. **Design the Application Around the Existing Data**
    - APIs and UI flows should reflect real insurance processes.
-   - Avoid altering data semantics unless implementing optional extensions.
-
+   - Refer to Functional Requirements section to understand more and detailed steps.
 ---
 
 ## HINTS
