@@ -1,0 +1,41 @@
+traveler_id,first_name,last_name,email,phone,home_city_code,home_city,home_country,date_of_birth,loyalty_tier
+TR1001,Vihaan,Sharma,vihaan.sharma1@mail.com,+911819600133,PNQ,Pune,India,1990-12-26,Silver
+TR1002,Anika,Hegde,anika.hegde2@fabrikam.com,+913794026542,BLR,Bengaluru,India,2005-03-05,Silver
+TR1003,Muhammad,Gupta,muhammad.gupta3@example.com,+915594078161,MAA,Chennai,India,1984-02-28,Platinum
+TR1004,Riya,Reddy,riya.reddy4@example.com,+910341316475,SIN,Singapore,Singapore,2005-11-24,Silver
+TR1005,Reyansh,Gupta,reyansh.gupta5@example.com,+919283276483,SIN,Singapore,Singapore,1989-05-25,Gold
+TR1006,Aanya,Sharma,aanya.sharma6@contoso.com,+916413953767,COK,Kochi,India,2016-11-11,None
+TR1007,Arjun,Reddy,arjun.reddy7@fabrikam.com,+919653287101,HYD,Hyderabad,India,1991-01-23,Gold
+TR1008,Arjun,Das,arjun.das8@example.com,+916697848018,CCU,Kolkata,India,2015-07-13,Platinum
+TR1009,Ishaan,Das,ishaan.das9@fabrikam.com,+912704828148,DXB,Dubai,UAE,1985-01-01,Gold
+TR1010,Nisha,Nair,nisha.nair10@example.com,+919570154303,HYD,Hyderabad,India,1996-10-09,Silver
+TR1011,Meera,Verma,meera.verma11@example.com,+918227824896,BOM,Mumbai,India,2012-10-30,Platinum
+TR1012,Muhammad,Singh,muhammad.singh12@fabrikam.com,+915787133150,GOI,Goa,India,2011-12-24,Gold
+TR1013,Meera,Singh,meera.singh13@example.com,+911031051834,COK,Kochi,India,2006-05-25,Silver
+TR1014,Sara,Nair,sara.nair14@mail.com,+917631165667,HYD,Hyderabad,India,2012-06-12,Platinum
+TR1015,Vivaan,Das,vivaan.das15@contoso.com,+911333872624,MAA,Chennai,India,1982-09-20,Platinum
+TR1016,Myra,Nair,myra.nair16@example.com,+918013267736,BOM,Mumbai,India,1999-11-17,None
+TR1017,Vivaan,Iyer,vivaan.iyer17@contoso.com,+917468723430,BKK,Bangkok,Thailand,1980-02-05,Platinum
+TR1018,Meera,Ghosh,meera.ghosh18@example.com,+910978820812,DEL,New Delhi,India,2013-07-20,Gold
+TR1019,Aditya,Hegde,aditya.hegde19@fabrikam.com,+911939909169,BOM,Mumbai,India,2010-04-15,Silver
+TR1020,Meera,Singh,meera.singh20@contoso.com,+913462475107,DXB,Dubai,UAE,1991-09-12,Silver
+TR1021,Nisha,Hegde,nisha.hegde21@contoso.com,+912513542784,MAA,Chennai,India,1983-04-15,Silver
+TR1022,Nisha,Das,nisha.das22@example.com,+912411824493,BLR,Bengaluru,India,2009-12-16,Gold
+TR1023,Aanya,Nair,aanya.nair23@contoso.com,+910164005242,PNQ,Pune,India,2002-09-02,Platinum
+TR1024,Myra,Singh,myra.singh24@example.com,+911280598262,KUL,Kuala Lumpur,Malaysia,2005-02-27,None
+TR1025,Vivaan,Reddy,vivaan.reddy25@contoso.com,+913315869232,SIN,Singapore,Singapore,2020-04-28,None
+TR1026,Reyansh,Patel,reyansh.patel26@fabrikam.com,+913421607337,BLR,Bengaluru,India,1988-01-17,Gold
+TR1027,Diya,Reddy,diya.reddy27@mail.com,+916541458685,COK,Kochi,India,1989-12-31,None
+TR1028,Aarav,Verma,aarav.verma28@example.com,+911965569816,PNQ,Pune,India,1988-01-04,Gold
+TR1029,Meera,Nair,meera.nair29@example.com,+918835615951,PNQ,Pune,India,1981-12-28,Platinum
+TR1030,Kabir,Singh,kabir.singh30@contoso.com,+916482366299,JAI,Jaipur,India,2009-11-30,Platinum
+TR1031,Kabir,Patel,kabir.patel31@mail.com,+916995777387,BLR,Bengaluru,India,1993-08-18,Gold
+TR1032,Reyansh,Das,reyansh.das32@example.com,+913433200379,BOM,Mumbai,India,1992-09-23,Gold
+TR1033,Aditya,Khan,aditya.khan33@fabrikam.com,+917632016328,KUL,Kuala Lumpur,Malaysia,2019-10-01,Silver
+TR1034,Myra,Sharma,myra.sharma34@fabrikam.com,+912788957986,COK,Kochi,India,2018-01-20,None
+TR1035,Riya,Khan,riya.khan35@fabrikam.com,+914348734714,CCU,Kolkata,India,2013-05-11,Platinum
+TR1036,Sai,Reddy,sai.reddy36@mail.com,+912362316658,DXB,Dubai,UAE,1994-05-05,None
+TR1037,Myra,Patel,myra.patel37@fabrikam.com,+919096705466,DEL,New Delhi,India,1989-04-11,Platinum
+TR1038,Riya,Ghosh,riya.ghosh38@contoso.com,+916706562729,COK,Kochi,India,2001-11-25,Silver
+TR1039,Riya,Sharma,riya.sharma39@example.com,+916272046537,BKK,Bangkok,Thailand,2006-07-20,None
+TR1040,Aanya,Gupta,aanya.gupta40@contoso.com,+911708053100,BKK,Bangkok,Thailand,1992-06-24,Platinum

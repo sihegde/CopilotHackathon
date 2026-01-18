@@ -1,0 +1,61 @@
+hotel_id,hotel_name,city_code,city,country,star_rating,room_type_default,nightly_price_inr,rooms_total,rooms_available
+HT3001,Marriott Pune Central,PNQ,Pune,India,5,Standard,21029,60,15
+HT3002,Hilton Kochi Central,COK,Kochi,India,3,Standard,15343,80,60
+HT3003,Taj Hyderabad Heights,HYD,Hyderabad,India,3,Suite,15133,120,61
+HT3004,Hyatt Goa Downtown,GOI,Goa,India,4,Standard,3738,40,36
+HT3005,Marriott New Delhi City Center,DEL,New Delhi,India,3,Deluxe,2990,120,100
+HT3006,Hyatt Kolkata Central,CCU,Kolkata,India,3,Standard,11577,180,154
+HT3007,Hyatt Dubai City Center,DXB,Dubai,UAE,5,Standard,19602,180,126
+HT3008,Hyatt London Airport,LHR,London,UK,3,Deluxe,12635,60,46
+HT3009,Marriott Pune Central,PNQ,Pune,India,5,Suite,12846,80,72
+HT3010,Marriott Goa Heights,GOI,Goa,India,5,Deluxe,15087,120,65
+HT3011,ITC Mumbai Central,BOM,Mumbai,India,3,Standard,6407,120,41
+HT3012,Hyatt Bengaluru City Center,BLR,Bengaluru,India,3,Deluxe,16438,80,42
+HT3013,Hyatt Bengaluru Downtown,BLR,Bengaluru,India,5,Deluxe,9543,40,7
+HT3014,Marriott Jaipur City Center,JAI,Jaipur,India,5,Suite,18266,80,15
+HT3015,Radisson Jaipur Heights,JAI,Jaipur,India,3,Standard,8980,60,30
+HT3016,Radisson London City Center,LHR,London,UK,5,Suite,19797,120,96
+HT3017,Hilton Goa Heights,GOI,Goa,India,3,Suite,19019,120,67
+HT3018,Oberoi Singapore Heights,SIN,Singapore,Singapore,3,Standard,3823,180,129
+HT3019,Marriott Hyderabad Downtown,HYD,Hyderabad,India,5,Suite,16278,40,13
+HT3020,Oberoi New York Heights,JFK,New York,USA,4,Suite,3623,120,16
+HT3021,Accor Kuala Lumpur Heights,KUL,Kuala Lumpur,Malaysia,3,Deluxe,20110,120,86
+HT3022,ITC Bengaluru Downtown,BLR,Bengaluru,India,3,Standard,8940,180,18
+HT3023,Radisson Kuala Lumpur Central,KUL,Kuala Lumpur,Malaysia,5,Standard,3774,40,30
+HT3024,ITC Jaipur Airport,JAI,Jaipur,India,3,Deluxe,15574,80,48
+HT3025,ITC Bangkok Central,BKK,Bangkok,Thailand,5,Deluxe,19471,60,41
+HT3026,Marriott Chennai Heights,MAA,Chennai,India,4,Standard,19129,60,46
+HT3027,Taj Bengaluru Downtown,BLR,Bengaluru,India,4,Deluxe,19640,120,68
+HT3028,Hilton Kochi City Center,COK,Kochi,India,4,Suite,6883,80,24
+HT3029,Taj Chennai City Center,MAA,Chennai,India,5,Standard,2312,60,13
+HT3030,Taj Chennai City Center,MAA,Chennai,India,5,Standard,3395,60,47
+HT3031,Accor Bangkok Airport,BKK,Bangkok,Thailand,5,Suite,8919,40,8
+HT3032,Hilton Jaipur Heights,JAI,Jaipur,India,4,Deluxe,20722,180,172
+HT3033,Hyatt Kochi Airport,COK,Kochi,India,5,Deluxe,18880,60,26
+HT3034,Taj Pune Heights,PNQ,Pune,India,5,Deluxe,7538,120,71
+HT3035,Radisson New Delhi City Center,DEL,New Delhi,India,5,Standard,12244,120,52
+HT3036,ITC Jaipur Airport,JAI,Jaipur,India,5,Standard,17316,60,54
+HT3037,Marriott Jaipur City Center,JAI,Jaipur,India,3,Suite,20228,120,53
+HT3038,ITC Hyderabad Airport,HYD,Hyderabad,India,4,Deluxe,8462,80,10
+HT3039,Oberoi Singapore Heights,SIN,Singapore,Singapore,5,Deluxe,8041,40,17
+HT3040,Oberoi New Delhi Airport,DEL,New Delhi,India,5,Standard,20112,60,30
+HT3041,Hyatt Dubai Central,DXB,Dubai,UAE,3,Standard,8026,40,30
+HT3042,ITC Goa Airport,GOI,Goa,India,5,Deluxe,12338,80,48
+HT3043,Hyatt Singapore Downtown,SIN,Singapore,Singapore,4,Standard,18603,120,59
+HT3044,Radisson New York Airport,JFK,New York,USA,4,Suite,12053,120,5
+HT3045,Marriott Kochi Central,COK,Kochi,India,4,Suite,19930,180,148
+HT3046,Hyatt Kuala Lumpur Airport,KUL,Kuala Lumpur,Malaysia,3,Suite,12609,60,24
+HT3047,Accor Kochi Heights,COK,Kochi,India,5,Suite,12861,80,62
+HT3048,Accor New York Airport,JFK,New York,USA,5,Suite,13340,60,8
+HT3049,Marriott New York Heights,JFK,New York,USA,5,Standard,3724,180,8
+HT3050,Taj New Delhi City Center,DEL,New Delhi,India,3,Standard,9383,40,9
+HT3051,Accor Goa Downtown,GOI,Goa,India,3,Standard,17633,120,2
+HT3052,Taj Kuala Lumpur Central,KUL,Kuala Lumpur,Malaysia,5,Standard,10802,180,73
+HT3053,Marriott Kuala Lumpur Central,KUL,Kuala Lumpur,Malaysia,3,Standard,18983,60,15
+HT3054,Radisson Pune Downtown,PNQ,Pune,India,4,Deluxe,4389,80,51
+HT3055,Hilton Kochi Downtown,COK,Kochi,India,5,Deluxe,4441,40,5
+HT3056,ITC Bangkok Heights,BKK,Bangkok,Thailand,4,Standard,3638,40,10
+HT3057,ITC New York Downtown,JFK,New York,USA,5,Standard,4924,180,10
+HT3058,Accor Goa Downtown,GOI,Goa,India,3,Suite,4236,80,69
+HT3059,Marriott New Delhi Downtown,DEL,New Delhi,India,3,Suite,8588,180,36
+HT3060,Oberoi Bangkok Downtown,BKK,Bangkok,Thailand,3,Deluxe,20279,60,36
