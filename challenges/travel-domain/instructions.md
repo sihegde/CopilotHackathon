@@ -60,7 +60,7 @@ Implement APIs or logic to:
 
 ---
 
-## STEP 6: Use GitHub Copilot Effectively
+### Use GitHub Copilot Effectively
 
 Use **GitHub Copilot and Copilot Chat** to:
 - Generate models and data structures
