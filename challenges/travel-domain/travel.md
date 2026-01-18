@@ -1,46 +1,82 @@
 
-# ✈️ Travel Domain – Copilot Hackathon Challenge
+# Travel Domain – Copilot Hackathon Challenge
 
-## DESCRIPTION
+## Description
 
-The goal of this challenge is to build a **Travel Booking Management Application** using the **pre‑provided travel dataset** available in this repository.
+In this challenge, you will build a **Travel Booking System** that allows travelers to search for travel options, create bookings, and view travel itineraries using the **data provided** in this repository.
 
-Developers will work on designing APIs and/or user interfaces that allow users to search travel options, create bookings, and view travel itineraries.
+The goal of this challenge is to help developers understand how to work with an existing dataset, model relationships between entities, and build application functionality using **GitHub Copilot**.
 
-The focus of this challenge is to understand existing data, model domain entities correctly, and use **GitHub Copilot** to accelerate application development.
-
----
-
-## DOMAIN OVERVIEW
-
-The Travel domain represents common travel booking workflows such as:
-- Searching flights and hotels
-- Booking travel for users
-- Viewing and managing travel itineraries
-
-The application should reflect realistic travel scenarios and workflows.
 
 ---
 
-## AVAILABLE DATA
+## Problem Statement
 
-Travel domain data is already available under:
+Travel booking platforms are widely used to plan trips involving flights and hotel stays. These platforms rely on pre‑existing data about travelers, travel options, and bookings to enable users to plan and manage their travel.
+
+Your task is to build an application that uses the provided travel data to:
+
+- Display available travel options
+- Create and manage bookings
+- Show travel itineraries for travelers
+
+The application should simulate a simplified travel booking experience using the provided CSV files.
+
+---
+
+## What You Need to Build
+
+You are expected to build a Travel Booking application that supports:
+
+- Viewing traveler information
+- Searching and viewing available flights
+- Searching and viewing available hotels
+- Creating travel bookings
+- Viewing and managing existing bookings
+- Viewing travel itineraries
+
+You may implement this as:
+- A backend application with APIs
+- A web application
+- A command‑line application
+
+---
+
+## Data Available
+
+The travel domain data is provided under the following folder:
 **challenges/travel-domain/data**
 
-The dataset may include:
-- Travelers / Customers
+The data may include:
+- Travelers
 - Flights
 - Hotels
 - Bookings
-- Travel itineraries
-
-Participants are expected to **use the provided data** and not create fictional core data.
 
 ---
 
-## GOAL
+## Constraints and Guidelines
 
-By the end of this challenge, participants should have a working Travel Booking application that:
-- Reads and uses existing travel data
-- Supports travel booking workflows
-- Demonstrates effective usage of GitHub Copilot
+- Use the provided data as‑is
+- Do not introduce new core datasets
+- Handle missing or invalid data gracefully
+- Focus on correctness and clarity rather than advanced features
+- Use **GitHub Copilot** to assist with:
+  - Understanding data structures
+  - Generating application logic
+  - Writing boilerplate and helper code
+
+---
+
+## Expected Outcome
+
+At the end of this challenge, you should have:
+
+- A working Travel Booking application
+- Functionality to manage travel bookings using CSV data
+- Clear usage of GitHub Copilot during implementation
+- Clean, readable, and maintainable code
+
+---
+
+  
