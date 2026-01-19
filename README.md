@@ -102,7 +102,9 @@ Run:
 - [C++](./exercisefiles/c++/README.md)
 
 ## Challenges instructions
-
+- [Healthcare Domain](./challenges/healthcare-domain/instructions.md)
+- [Insurance Domain](./challenges/insurance-domain/instructions.md)
+- [Travel Domain](challenges/travel-domain/instructions.md)
 - [Develop a shop cart](./challenges/eshop/eshop.md) 
 - [Develop a memory game](./challenges/memorygame/memorygame.md)
 - [Develop a chat based on websockets](./challenges/chatwebsockets/chatwebsockets.md)
